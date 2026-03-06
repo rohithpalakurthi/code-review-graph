@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/banner.jpg" alt="code-review-graph banner" width="100%" />
+</p>
+
 # code-review-graph
 
 **Persistent incremental knowledge graph for token-efficient, context-aware code reviews with Claude Code.**
